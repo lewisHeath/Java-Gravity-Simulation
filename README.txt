@@ -1,0 +1,1 @@
+The gravity simulation folder is just for one ball, the main folder now has gravity in it, so just look at the main folder.
